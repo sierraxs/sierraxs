@@ -1,0 +1,64 @@
+a:link{
+	color:yellow;
+	}
+	
+a:visited{
+	color: green;
+	}
+	
+p{
+	font-family: "Ariel", "Helvetica", sans-serif;
+	font-size: 14px;
+	font-style: bold;
+	}
+	
+
+	
+#ex_1{
+	position: absolute; top: 20px; left: 490px;
+	background-color: white;
+	padding: 5px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: lightblue;
+	}
+	
+#pic_1{
+	position: absolute; top: 115px; left: 450px;
+	}
+
+#link_2{
+	position: absolute; top: 120px; left: 330px;
+	}
+
+#link_3{
+	position: absolute; top: 250px; left: 275px;
+	}
+
+#link_4{
+	position: absolute; top: 390px; left: 275px;
+	}
+	
+#link_5{
+	position: absolute; top: 510px; left: 330px;
+	}
+	
+#link_6{
+	position: absolute; top: 125px; left: 865px;
+	}
+
+#link_7{
+	position: absolute; top: 250px; left: 890px;
+	}
+
+#link_8{
+	position: absolute; top: 350px; left: 890px;
+	}
+
+#link_9{
+	position: absolute; top: 490px; left: 865px;
+	}
+	
+body{
+	background-color: silver;
+	}
